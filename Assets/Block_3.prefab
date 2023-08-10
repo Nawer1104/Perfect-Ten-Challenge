@@ -648,7 +648,7 @@ GameObject:
   - component: {fileID: 6669524321985224824}
   m_Layer: 0
   m_Name: Block_3
-  m_TagString: Untagged
+  m_TagString: 63
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -728,3 +728,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0bf820b57e57bd478c40bcb9956ac4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  particleVFX: {fileID: 157776, guid: 82bf03917e16d3d4cad30518cca28308, type: 3}
